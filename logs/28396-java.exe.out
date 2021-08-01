@@ -1,0 +1,37 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+{"logLevel":"debug","message":"gauge-java took 2300milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 2300"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 64634"}
+{"logLevel":"info","message":"Listening on port:64634"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.selectToElement' and 'org.example.StepImplementation.selectToElement'"}
+{"logLevel":"debug","message":"Found Select to {} element. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.SendStringToElement' and 'org.example.StepImplementation.SendStringToElement'"}
+{"logLevel":"debug","message":"Found Send {} String to {} element. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.clickToElement' and 'org.example.StepImplementation.clickToElement'"}
+{"logLevel":"debug","message":"Found Click to {} element. in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tSelect to {} element. : public void selectToElement(AllWebElements webElements)"}
+{"logLevel":"debug","message":"\tSend {} String to {} element. : public void SendStringToElement(String Coming, AllWebElements webElements)"}
+{"logLevel":"debug","message":"\tClick to {} element. : public void clickToElement(AllWebElements webElements)"}
+1612095445291	geckodriver	INFO	Listening on 127.0.0.1:45069
+1612095446669	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SIBEL~1.DOG\\AppData\\Local\\Temp\\rust_mozprofileffok2Z"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612095451178	Marionette	INFO	Listening on port 64675
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612095452836	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612095452850	Marionette	ERROR	[15] No reply from Marionette:Register
+Oca 31, 2021 3:17:32 ÖS org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+JavaScript error: https://www.eminevim.com/assets/js/scope2808.js, line 72: ReferenceError: FastClick is not defined
+Sayfa Yuklendi
+{"logLevel":"debug","message":"Executing 'Click to {} element.' using 'class org.example.StepImplementation.clickToElement"}
+JavaScript error: https://www.eminevim.com/assets/js/scope2808.js, line 72: ReferenceError: FastClick is not defined
+{"logLevel":"debug","message":"Executing 'Click to {} element.' using 'class org.example.StepImplementation.clickToElement"}
+JavaScript error: https://www.eminevim.com/assets/js/scope2808.js, line 72: ReferenceError: FastClick is not defined

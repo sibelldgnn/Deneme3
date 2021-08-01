@@ -1,0 +1,92 @@
+31-01-2021 14:02:12.125 [Gauge] [INFO] Spec file added / modified: C:\Users\sibel.dogan\IdeaProjects\Deneme3\specs\example.spec
+31-01-2021 15:17:03.945 [Gauge] [INFO] Spec file added / modified: C:\Users\sibel.dogan\IdeaProjects\Deneme3\specs\example.spec
+01-02-2021 12:25:10.721 [Gauge] [INFO] Watching directory: C:\Users\sibel.dogan\IdeaProjects\Deneme3\specs
+01-02-2021 12:25:10.734 [Gauge] [DEBUG] Found 1 files
+01-02-2021 12:25:10.762 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+01-02-2021 12:25:10.769 [Gauge] [INFO] Initializing specs cache with 1 specs
+01-02-2021 12:25:10.769 [Gauge] [DEBUG] Adding specs from C:\Users\sibel.dogan\IdeaProjects\Deneme3\specs\example.spec
+01-02-2021 12:25:10.769 [Gauge] [INFO] Initializing steps cache with 1 steps
+01-02-2021 12:25:10.770 [Gauge] [INFO] Gauge daemon initialized and listening on port: 55432
+01-02-2021 12:25:10.774 [Gauge] [INFO] Spec file added / modified: C:\Users\sibel.dogan\IdeaProjects\Deneme3\specs\example.spec
+01-02-2021 12:25:20.527 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Send <String> String to <WebElement> element." > 
+01-02-2021 12:25:20.527 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Send {} String to {} element." parameterizedStepValue:"Send <String> String to <WebElement> element." parameters:"String" parameters:"WebElement" > > 
+01-02-2021 12:25:20.983 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click to <WebElement> element." > 
+01-02-2021 12:25:20.983 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click to {} element." parameterizedStepValue:"Click to <WebElement> element." parameters:"WebElement" > > 
+01-02-2021 12:25:21.017 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Select to <WebElement> element." > 
+01-02-2021 12:25:21.017 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Select to {} element." parameterizedStepValue:"Select to <WebElement> element." parameters:"WebElement" > > 
+01-02-2021 12:25:21.398 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click to \"Kampanyalar\" element." > 
+01-02-2021 12:25:21.398 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click to {} element." parameterizedStepValue:"Click to <Kampanyalar> element." parameters:"Kampanyalar" > > 
+01-02-2021 12:25:21.399 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click to \"DetayliBilgi\" element." > 
+01-02-2021 12:25:21.399 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click to {} element." parameterizedStepValue:"Click to <DetayliBilgi> element." parameters:"DetayliBilgi" > > 
+01-02-2021 12:25:21.400 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Send \"Text\" String to \"TextSearchBox\" element." > 
+01-02-2021 12:25:21.400 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Send {} String to {} element." parameterizedStepValue:"Send <Text> String to <TextSearchBox> element." parameters:"Text" parameters:"TextSearchBox" > > 
+01-02-2021 12:25:21.400 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click to \"Search\" element." > 
+01-02-2021 12:25:21.400 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click to {} element." parameterizedStepValue:"Click to <Search> element." parameters:"Search" > > 
+01-02-2021 12:25:21.401 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click to \"ClickProduct\" element." > 
+01-02-2021 12:25:21.401 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click to {} element." parameterizedStepValue:"Click to <ClickProduct> element." parameters:"ClickProduct" > > 
+30-07-2021 16:22:46.300 [Gauge] [INFO] Watching directory: C:\Users\asus\Desktop\projelerim\Deneme3\specs
+30-07-2021 16:22:46.301 [Gauge] [DEBUG] Found 1 files
+30-07-2021 16:22:46.303 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+30-07-2021 16:22:46.317 [Gauge] [INFO] Initializing specs cache with 1 specs
+30-07-2021 16:22:46.317 [Gauge] [DEBUG] Adding specs from C:\Users\asus\Desktop\projelerim\Deneme3\specs\example.spec
+30-07-2021 16:22:46.317 [Gauge] [INFO] Initializing steps cache with 1 steps
+30-07-2021 16:22:46.317 [Gauge] [INFO] Gauge daemon initialized and listening on port: 51187
+30-07-2021 16:22:46.524 [Gauge] [DEBUG] Api Request Received: messageType:GetLanguagePluginLibPathRequest messageId:5 libPathRequest:<language:"java" > 
+30-07-2021 16:22:46.718 [Gauge] [DEBUG] Sending API response: messageType:GetLanguagePluginLibPathResponse messageId:5 libPathResponse:<path:"C:\\Users\\asus\\AppData\\Roaming\\gauge\\plugins\\java\\0.7.13\\libs" > 
+30-07-2021 16:29:00.127 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+30-07-2021 16:29:00.129 [Gauge] [INFO] Watching directory: C:\Users\asus\Desktop\projelerim\Deneme3\specs
+30-07-2021 16:29:00.130 [Gauge] [DEBUG] Found 1 files
+30-07-2021 16:29:00.130 [Gauge] [INFO] Initializing specs cache with 1 specs
+30-07-2021 16:29:00.131 [Gauge] [DEBUG] Adding specs from C:\Users\asus\Desktop\projelerim\Deneme3\specs\example.spec
+30-07-2021 16:29:00.131 [Gauge] [INFO] Initializing steps cache with 1 steps
+30-07-2021 16:29:00.131 [Gauge] [INFO] Gauge daemon initialized and listening on port: 56414
+30-07-2021 16:31:21.870 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click to \"Kampanyalar\" element." > 
+30-07-2021 16:31:21.870 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click to {} element." parameterizedStepValue:"Click to <Kampanyalar> element." parameters:"Kampanyalar" > > 
+30-07-2021 16:31:22.193 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click to <WebElement> element." > 
+30-07-2021 16:31:22.193 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click to {} element." parameterizedStepValue:"Click to <WebElement> element." parameters:"WebElement" > > 
+30-07-2021 16:31:22.204 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click to \"DetayliBilgi\" element." > 
+30-07-2021 16:31:22.204 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click to {} element." parameterizedStepValue:"Click to <DetayliBilgi> element." parameters:"DetayliBilgi" > > 
+30-07-2021 16:31:22.211 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Send \"Text\" String to \"TextSearchBox\" element." > 
+30-07-2021 16:31:22.211 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Send {} String to {} element." parameterizedStepValue:"Send <Text> String to <TextSearchBox> element." parameters:"Text" parameters:"TextSearchBox" > > 
+30-07-2021 16:31:22.215 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Select to <WebElement> element." > 
+30-07-2021 16:31:22.215 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Select to {} element." parameterizedStepValue:"Select to <WebElement> element." parameters:"WebElement" > > 
+30-07-2021 16:31:22.216 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Send <String> String to <WebElement> element." > 
+30-07-2021 16:31:22.216 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Send {} String to {} element." parameterizedStepValue:"Send <String> String to <WebElement> element." parameters:"String" parameters:"WebElement" > > 
+30-07-2021 16:31:22.217 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click to \"Search\" element." > 
+30-07-2021 16:31:22.217 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click to {} element." parameterizedStepValue:"Click to <Search> element." parameters:"Search" > > 
+30-07-2021 16:31:22.219 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click to \"ClickProduct\" element." > 
+30-07-2021 16:31:22.219 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click to {} element." parameterizedStepValue:"Click to <ClickProduct> element." parameters:"ClickProduct" > > 
+01-08-2021 15:28:04.847 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+01-08-2021 15:28:04.852 [Gauge] [INFO] Watching directory: C:\Users\asus\Desktop\Deneme3\specs
+01-08-2021 15:28:04.879 [Gauge] [DEBUG] Found 1 files
+01-08-2021 15:28:05.060 [Gauge] [INFO] Initializing specs cache with 1 specs
+01-08-2021 15:28:05.060 [Gauge] [DEBUG] Adding specs from C:\Users\asus\Desktop\Deneme3\specs\example.spec
+01-08-2021 15:28:05.060 [Gauge] [INFO] Initializing steps cache with 1 steps
+01-08-2021 15:28:05.060 [Gauge] [INFO] Gauge daemon initialized and listening on port: 54403
+01-08-2021 15:28:09.603 [Gauge] [DEBUG] Api Request Received: messageType:GetLanguagePluginLibPathRequest messageId:5 libPathRequest:<language:"java" > 
+01-08-2021 15:28:09.705 [Gauge] [DEBUG] Sending API response: messageType:GetLanguagePluginLibPathResponse messageId:5 libPathResponse:<path:"C:\\Users\\asus\\AppData\\Roaming\\gauge\\plugins\\java\\0.7.13\\libs" > 
+01-08-2021 15:30:02.949 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click to \"Kampanyalar\" element." > 
+01-08-2021 15:30:02.949 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click to {} element." parameterizedStepValue:"Click to <Kampanyalar> element." parameters:"Kampanyalar" > > 
+01-08-2021 15:30:03.740 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click to \"DetayliBilgi\" element." > 
+01-08-2021 15:30:03.741 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click to {} element." parameterizedStepValue:"Click to <DetayliBilgi> element." parameters:"DetayliBilgi" > > 
+01-08-2021 15:30:03.977 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Send \"Text\" String to \"TextSearchBox\" element." > 
+01-08-2021 15:30:03.977 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Send {} String to {} element." parameterizedStepValue:"Send <Text> String to <TextSearchBox> element." parameters:"Text" parameters:"TextSearchBox" > > 
+01-08-2021 15:30:04.135 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click to \"Search\" element." > 
+01-08-2021 15:30:04.135 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click to {} element." parameterizedStepValue:"Click to <Search> element." parameters:"Search" > > 
+01-08-2021 15:30:04.354 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click to \"ClickProduct\" element." > 
+01-08-2021 15:30:04.355 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click to {} element." parameterizedStepValue:"Click to <ClickProduct> element." parameters:"ClickProduct" > > 
+01-08-2021 15:30:04.671 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Click to <WebElement> element." > 
+01-08-2021 15:30:04.671 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Click to {} element." parameterizedStepValue:"Click to <WebElement> element." parameters:"WebElement" > > 
+01-08-2021 15:30:06.291 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Select to <WebElement> element." > 
+01-08-2021 15:30:06.291 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Select to {} element." parameterizedStepValue:"Select to <WebElement> element." parameters:"WebElement" > > 
+01-08-2021 15:30:07.555 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Send <String> String to <WebElement> element." > 
+01-08-2021 15:30:07.556 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Send {} String to {} element." parameterizedStepValue:"Send <String> String to <WebElement> element." parameters:"String" parameters:"WebElement" > > 
+01-08-2021 15:33:00.766 [Gauge] [INFO] Watching directory: C:\Users\asus\Desktop\Deneme3\specs
+01-08-2021 15:33:00.773 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+01-08-2021 15:33:00.774 [Gauge] [DEBUG] Found 1 files
+01-08-2021 15:33:00.983 [Gauge] [INFO] Initializing specs cache with 1 specs
+01-08-2021 15:33:00.983 [Gauge] [DEBUG] Adding specs from C:\Users\asus\Desktop\Deneme3\specs\example.spec
+01-08-2021 15:33:00.983 [Gauge] [INFO] Initializing steps cache with 1 steps
+01-08-2021 15:33:00.983 [Gauge] [INFO] Gauge daemon initialized and listening on port: 54932
+01-08-2021 15:33:01.803 [Gauge] [DEBUG] Api Request Received: messageType:GetLanguagePluginLibPathRequest messageId:5 libPathRequest:<language:"java" > 
+01-08-2021 15:33:01.805 [Gauge] [DEBUG] Sending API response: messageType:GetLanguagePluginLibPathResponse messageId:5 libPathResponse:<path:"C:\\Users\\asus\\AppData\\Roaming\\gauge\\plugins\\java\\0.7.13\\libs" > 
